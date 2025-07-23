@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0\NitroGenerator.exe
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0\NitroGenerator.deps.json
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0\NitroGenerator.runtimeconfig.json
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0\NitroGenerator.pdb
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.AssemblyInfo.cs
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\refint\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.pdb
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\NitroGenerator.genruntimeconfig.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0\ref\NitroGenerator.dll

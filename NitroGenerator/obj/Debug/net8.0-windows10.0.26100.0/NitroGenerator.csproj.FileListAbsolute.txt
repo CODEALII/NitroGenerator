@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\NitroGenerator.exe
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\NitroGenerator.deps.json
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\NitroGenerator.runtimeconfig.json
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\NitroGenerator.pdb
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\bin\Debug\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.AssemblyInfo.cs
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGen.C2CA5E89.Up2Date
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\refint\NitroGenerator.dll
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.pdb
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\NitroGenerator.genruntimeconfig.cache
+C:\Users\Ali\source\repos\NitroGenerator\NitroGenerator\obj\Debug\net8.0-windows10.0.26100.0\ref\NitroGenerator.dll
